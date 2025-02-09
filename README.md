@@ -12,13 +12,13 @@
 
 ###
 
-<p align="left">I’m **Ravi**, a **Software Engineer** from **Delhi, India**.  <br>**Code? I speak it fluently. Problems? I crush them daily. Let’s build something that matters.** 💻🔥</p>
+<p align="left">I’m Ravi, a Software Engineer from Delhi, India.  <br>Code? I speak it fluently. Problems? I crush them daily. Let’s build something that matters. 💻🔥</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">🔥 **Technologies & Tools**</h3>
+<h3 align="left">🔥 Technologies & Tools</h3>
 
 ###
 
@@ -102,7 +102,7 @@
 
 <br clear="both">
 
-<h3 align="left">💬 **Let’s Collab or Chat**</h3>
+<h3 align="left">💬 Let’s Collab or Chat</h3>
 
 ###
 
@@ -120,17 +120,17 @@
 
 <br clear="both">
 
-<h3 align="left">🏆 **Trophies in My Cabinet**</h3>
+<h3 align="left">🏆 Trophies in My Cabinet</h3>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">📊 **GitHub Glory**</h3>
+<h3 align="left">📊 GitHub Glory</h3>
 
 ###
 
-<p align="left">⭐️ **Coded with caffeine and chaos by Ravi**</p>
+<p align="left">⭐️ Coded with caffeine and chaos by Ravi</p>
 
 ###
 
