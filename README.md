@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5603AQEtg96V69MDGg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1614674333625?e=1744848000&v=beta&t=OCPvE_UgiEYtvrY-k_-DbYjIBt4EZoSo40ad1bAb-sY" alt="Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #00d1b2; box-shadow: 0 4px 10px rgba(0, 209, 178, 0.3);">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFmV9xVu1Ur8A/profile-displayphoto-shrink_400_400/B56ZTtTUCxHQAg-/0/1739148051130?e=1744848000&v=beta&t=qnmN-GF-f-IoO7GrmHbFm2J47h2uV2I3HJ7BpuQpIjs" alt="Profile Picture" width="150" style="border-radius: 50%; border: 4px solid #00d1b2; box-shadow: 0 4px 10px rgba(0, 209, 178, 0.3);">
 </p>
 
 <h1 align="center" style="color: #00d1b2; font-family: 'Poppins', sans-serif; font-size: 2.5rem; margin-bottom: 10px;">Hi 👋 there, Viewer!</h1>
